@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-I’m an **Aspiring Cybersecurity Specialist** with a knack for solving puzzles, coding, and fortifying digital spaces. Whether it’s hacking away at a challenging problem or crafting secure applications, I’m all in! 💻🔒
+Aspiring CSE student specializing in Cyber Security with hands-on project experience and a robust internship background. I am proficient in Java, Python, and C, with a strong foundation in web development and computer science fundamentals. I am adept at problem-solving, thrive in dynamic environments, and I am committed to continuous learning and innovation.
 
 - **Languages:** Java, Python, C
 - **Web Development:** HTML, CSS, JavaScript
